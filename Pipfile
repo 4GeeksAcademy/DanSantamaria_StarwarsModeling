@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 flask = "*"
-sqlalchemy = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "==4.0.5"
 flask-swagger = "==0.2.14"
@@ -18,6 +17,7 @@ flask-cors = "==4.0.0"
 gunicorn = "*"
 flask-admin = "==1.6.1"
 wtforms = "==3.0.1"
+sqlalchemy = "*"
 eralchemy2 = "*"
 
 [requires]
